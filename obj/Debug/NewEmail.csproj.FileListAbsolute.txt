@@ -1,0 +1,28 @@
+c:\users\pbssdev03\documents\visual studio 2015\Projects\NewEmail\NewEmail\bin\Debug\NewEmail.exe.config
+c:\users\pbssdev03\documents\visual studio 2015\Projects\NewEmail\NewEmail\bin\Debug\NewEmail.exe
+c:\users\pbssdev03\documents\visual studio 2015\Projects\NewEmail\NewEmail\bin\Debug\NewEmail.pdb
+c:\users\pbssdev03\documents\visual studio 2015\Projects\NewEmail\NewEmail\bin\Debug\Sap.Data.Hana.v4.5.dll
+c:\users\pbssdev03\documents\visual studio 2015\Projects\NewEmail\NewEmail\bin\Debug\Sap.Data.Hana.v4.5.pdb
+c:\users\pbssdev03\documents\visual studio 2015\Projects\NewEmail\NewEmail\bin\Debug\Sap.Data.Hana.v4.5.xml
+c:\users\pbssdev03\documents\visual studio 2015\Projects\NewEmail\NewEmail\obj\Debug\NewEmail.csprojResolveAssemblyReference.cache
+c:\users\pbssdev03\documents\visual studio 2015\Projects\NewEmail\NewEmail\obj\Debug\Interop.SAPbobsCOM.dll
+c:\users\pbssdev03\documents\visual studio 2015\Projects\NewEmail\NewEmail\obj\Debug\NewEmail.csproj.ResolveComReference.cache
+c:\users\pbssdev03\documents\visual studio 2015\Projects\NewEmail\NewEmail\obj\Debug\NewEmail.Properties.Resources.resources
+c:\users\pbssdev03\documents\visual studio 2015\Projects\NewEmail\NewEmail\obj\Debug\NewEmail.csproj.GenerateResource.Cache
+c:\users\pbssdev03\documents\visual studio 2015\Projects\NewEmail\NewEmail\obj\Debug\NewEmail.exe
+c:\users\pbssdev03\documents\visual studio 2015\Projects\NewEmail\NewEmail\obj\Debug\NewEmail.pdb
+c:\users\pbssdev03\documents\visual studio 2015\Projects\NewEmail\NewEmail\obj\Debug\NewEmail.Mail.resources
+C:\Prabath\NewEmail\NewEmail\bin\Debug\NewEmail.exe.config
+C:\Prabath\NewEmail\NewEmail\obj\Debug\Interop.SAPbobsCOM.dll
+C:\Prabath\NewEmail\NewEmail\obj\Debug\NewEmail.csproj.ResolveComReference.cache
+C:\Prabath\NewEmail\NewEmail\obj\Debug\NewEmail.exe
+C:\Prabath\NewEmail\NewEmail\obj\Debug\NewEmail.pdb
+C:\Prabath\NewEmail\NewEmail\bin\Debug\NewEmail.exe
+C:\Prabath\NewEmail\NewEmail\bin\Debug\NewEmail.pdb
+C:\Prabath\NewEmail\NewEmail\bin\Debug\Sap.Data.Hana.v4.5.dll
+C:\Prabath\NewEmail\NewEmail\bin\Debug\Sap.Data.Hana.v4.5.pdb
+C:\Prabath\NewEmail\NewEmail\bin\Debug\Sap.Data.Hana.v4.5.xml
+C:\Prabath\NewEmail\NewEmail\obj\Debug\NewEmail.csprojResolveAssemblyReference.cache
+C:\Prabath\NewEmail\NewEmail\obj\Debug\NewEmail.Mail.resources
+C:\Prabath\NewEmail\NewEmail\obj\Debug\NewEmail.Properties.Resources.resources
+C:\Prabath\NewEmail\NewEmail\obj\Debug\NewEmail.csproj.GenerateResource.Cache
